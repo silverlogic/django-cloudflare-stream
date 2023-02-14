@@ -1,0 +1,19 @@
+__pycache__/
+.cache/
+/apidocs/build/
+**/venv
+.DS_Store
+src
+sonar-project.properties
+.scannerwork/
+
+# workspace files are user-specific
+*.sublime-workspace
+**/*.code-workspace
+**/.vscode
+.idea/
+
+# generated UMLs
+uml-*.*
+
+firebase-credentials.json
