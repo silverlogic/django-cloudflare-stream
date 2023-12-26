@@ -48,6 +48,14 @@ router.register(
 )
 ```
 
+### Register App
+```python
+INSTALLED_APPS = [
+    # ----
+    'cloudflare_stream_field',
+]
+```
+
 ### Allow CORS Headers
 
 You need to add `tus-resumable, upload-length, upload-metadata, upload-creator` to your CORS header. Add the following to `settings/base.py`:
