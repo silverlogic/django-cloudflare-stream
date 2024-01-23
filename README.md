@@ -1,4 +1,6 @@
-# Django Cloudflare Stream Field
+# [DEPRECATED] Django Cloudflare Stream Field.
+
+This code has been moved to https://github.com/silverlogic/baseapp-backend/tree/master/baseapp-cloudflare-stream-field
 
 This app provides integration with Cloudflare Stream, where you can upload directly to Cloudflare using TUS protocol.
 
